@@ -1,0 +1,31 @@
+.SignInContainer {
+    padding: 50px 0px;
+    background-color: #f9f9f9;
+}
+
+.authenticationInputField {
+    width: 300px;
+}
+
+.signInForm {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 60px 40px;
+    background-color: #f6f7f8;
+    border-radius: 5px;
+}
+
+.authenticationBtn {
+    background-color: transparent;
+    padding: 5px 15px;
+    width: 100%;
+    border: 1px solid rgb(31, 31, 188);
+    font-weight: 500;
+    border-radius: 3px;
+    transition: .3s ease;
+}
+
+.authenticationBtn:hover {
+    color: white;
+    background-color: rgb(76, 76, 209);
+
+}

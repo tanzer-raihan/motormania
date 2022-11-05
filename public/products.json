@@ -1,0 +1,97 @@
+[
+    {
+        "model": "Yamaha R15-160",
+        "price": 1560.68,
+        "newPrice": 1440.78,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -7,
+        "image": "https://i.ibb.co/DVbJRB3/mc2.png"
+    },
+    {
+        "model": "Honda CBR-160",
+        "price": 1430.55,
+        "newPrice": 1340.35,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -8,
+        "image": "https://i.ibb.co/ZTWf4kY/mc6.png"
+    },
+    {
+        "model": "Dinos RM-210",
+        "price": 1530.45,
+        "newPrice": 1390.65,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -10,
+        "image": "https://i.ibb.co/Btpytzf/mc8.png"
+    },
+    {
+        "model": "Honda Racer-100",
+        "price": 1160.25,
+        "newPrice": 1050.78,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -8,
+        "image": "https://i.ibb.co/j3dZv69/mc9.png"
+    },
+    {
+        "model": "Ducati 1958X",
+        "price": 1960.45,
+        "newPrice": 1790.65,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -9,
+        "image": "https://i.ibb.co/pQHpnRJ/mc7-removebg-preview.png"
+    },
+    {
+        "model": "Ducati 1098R",
+        "price": 1860.15,
+        "newPrice": 1730.99,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -7,
+        "image": "https://i.ibb.co/xGmLdTn/mc5-removebg-preview.png"
+    },
+    {
+        "model": "RoadMaster-100",
+        "price": 1260.25,
+        "newPrice": 1150.78,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -10,
+        "image": "https://i.ibb.co/j3dZv69/mc9.png"
+    },
+    {
+        "model": "Yamaha R15-360",
+        "price": 2570.68,
+        "newPrice": 2540.78,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -8,
+        "image": "https://i.ibb.co/DVbJRB3/mc2.png"
+    },
+    {
+        "model": "Honda CBR-360",
+        "price": 2430.55,
+        "newPrice": 2340.35,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -8,
+        "image": "https://i.ibb.co/ZTWf4kY/mc6.png"
+    },
+    {
+        "model": "Ducati 550cc",
+        "price": 2960.45,
+        "newPrice": 2790.65,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "image": "https://i.ibb.co/pQHpnRJ/mc7-removebg-preview.png"
+    },
+    {
+        "model": "BMW 420GD",
+        "price": 3160.45,
+        "newPrice": 3090.65,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -9,
+        "image": " https://i.ibb.co/djpkdzW/dhoom-3-bike-bmw-k1300r-removebg-preview-1.png"
+    },
+    {
+        "model": "Joy Exion30",
+        "price": 2360.45,
+        "newPrice": 2230.65,
+        "description": "The mechanical specifications continue to feature a BS6-compliant 155cc, single-cylinder, liquid-cooled engine that now makes 18.1bhp as against 18.3bhp on the outgoing model. The peak torque output is rated at 14.2Nm at 7,500rpm.",
+        "discount": -8,
+        "image": "https://i.ibb.co/x2GqGYk/banner-img-mobile-1.png"
+    }
+]

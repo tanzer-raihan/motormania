@@ -1,0 +1,31 @@
+.footerMiddleContainer{
+    padding: 70px 0px;
+}
+.footerLink{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+
+}
+.footerLink:hover{
+    color: crimson;
+}
+.LinkHeader{
+    border-bottom: 3px solid rgb(219, 19, 59) ;
+   
+}
+.facebook{
+    color:#5177d1;
+}
+.google{
+    color: #f93e2a;
+}
+.twitter{
+    color: #3ea2f3;
+}
+.whatsApp{
+    color: #20c997;
+}
+.mediaIcon:hover{
+    border-radius: 25px;
+}

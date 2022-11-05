@@ -1,0 +1,12 @@
+.aboutHeaderContainer{
+    background-color: #f6f7f8;
+}
+.aboutIconContainer{
+    background-image: url('../../../Assets/about.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding: 60px;
+   
+}

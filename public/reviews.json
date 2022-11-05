@@ -1,0 +1,46 @@
+[
+    {
+      "name": "Mark Robert",
+      "from":"San Francisco",
+      "opinion": "A petrol engine would give its oily pistons to have a power curve like the Arcs electric motor.",
+      "rating":4.5
+
+      
+    },
+    {
+      "name": "Jonathon Steve",
+      "from":"Austin",
+      "opinion": "I treat this as a car. I wash it, check the the oil every now and then, take it out of the garage, use it. It is comfortable.I treat this as a car.",
+      "rating":5
+   
+    },
+    {
+      "name": "Liza Frank",
+      "age": 25,
+      "from":"Ohio",
+      "opinion": "The bike has more than enough usable power for the road, circa 118 bhp at rear wheel, without it being overwhelming.",
+      "rating":4.4
+    },
+    {
+      "name": "Henry Wills",
+      "from":"Texas",
+      "opinion": "As first attempts go, it is impressive, but there is no hiding the fact the initial outlay is expensive.",
+      "rating":5
+
+     
+    },
+    {
+      "name": "Emily Willium",
+      "from":"New York",
+      "opinion": "If you could take price and range out of the equation, the Experia is a very impressive motorcycle.",
+      "rating": 4.3
+  
+    },
+    {
+      "name": "Ezabela Craigh",
+      "from":"Connecticut",
+      "opinion": "Wonderful FUN bike for slow road riding and gentle green lane visiting. Very pretty too.",
+      "rating":4.5
+    
+    }
+  ]

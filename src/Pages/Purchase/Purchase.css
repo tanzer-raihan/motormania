@@ -1,0 +1,28 @@
+.purchaseContainer {
+   padding: 50px 10px;
+    background-color: #f6f7f8;
+
+
+}
+.purchasedProductCard{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 40px ;
+    background-color: white;
+}
+
+.purchaseForm {
+    padding: 30px 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+}
+.purchaseInput{
+    width: 100%;
+}
+.purchaseBtn{
+    padding: 5px 20px;
+    border-radius: 3px;
+    border: 1px solid blue;
+    background-color: rgb(76, 76, 216);
+    color: white;
+    font-weight: 500;
+}

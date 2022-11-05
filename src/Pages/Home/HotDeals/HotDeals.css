@@ -1,0 +1,34 @@
+.productsLink {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    font-weight: 500;
+
+}
+
+.productsLink:hover {
+    color: crimson;
+}
+
+.goFirstImg {
+    transition: .6s ease-in-out;
+
+}
+
+.goFirst:hover .goFirstImg {
+    transform: scale(1.1);
+}
+
+.goFirst {
+    overflow: hidden;
+
+}
+
+.exploreMoreBtn {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid crimson;
+    background-color: rgb(224, 37, 75);
+    font-weight: 600;
+    color: white;
+}

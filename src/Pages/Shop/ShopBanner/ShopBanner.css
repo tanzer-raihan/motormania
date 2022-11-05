@@ -1,0 +1,41 @@
+.shopBannerContainer {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bannerText {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bannerText h1 {
+    font-size:6vw;
+    font-weight: bold;
+}
+
+.shopBannerImg {
+    width: 100%;
+    filter: brightness(70%);
+}
+.shopBannerBtn{
+    padding: 8px 25px;
+    border: 2px solid rgb(236, 4, 51);
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    background-color: crimson;
+    transition: .7s ease;
+    border-radius: 3px;
+    
+}
+.shopBannerBtn:hover{
+    background-color: transparent;
+    color: white;
+}
+#explorebtn{
+    text-decoration: none;
+    color: white;
+}

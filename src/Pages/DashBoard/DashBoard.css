@@ -1,0 +1,23 @@
+.signOutBtn {
+    background-color: transparent;
+    font-weight: 500;
+    border: none;
+}
+
+.signOutBtn:hover {
+    color: crimson;
+}
+
+.dashBoardLink {
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+
+.dashBoardLink:hover {
+    color: crimson;
+}
+
+.active {
+    color: crimson;
+}

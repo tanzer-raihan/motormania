@@ -1,0 +1,32 @@
+.productCard{
+  background-color:#f6f7f8;
+  padding: 50px 30px;
+  font-weight: 600;
+}
+.productCard img{
+   height: 150px;
+   width: 200px;
+}
+.discountPrice{
+    padding: 0px 10px;
+    color: white;
+     background-color:rgb(236, 37, 77);
+}
+.goFirst img{
+    height: 80%;
+}
+.productBtn{
+  border: 1px solid crimson;
+  color: crimson;
+  background-color: transparent;
+  padding: 4px 15px;
+  border-radius: 2px;
+  transition: .5s ease;
+  font-weight: 600;
+
+}
+.productBtn:hover{
+  background-color: crimson;
+  color: white;
+
+}

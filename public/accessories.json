@@ -1,0 +1,88 @@
+[
+
+
+    {
+      "model": "Xenon DR6",
+      "ratings": 4.5,
+      "price": 130.53,
+      "image": "https://i.ibb.co/r64fY23/helmet3.jpg",
+      "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+      "discount":"8%",
+      "newPrice":"118.65"
+    },
+    {
+      "model": "Xtreme Sheild 30M",
+      "ratings": 4,
+      "price": 110.28,
+      "image": "https://i.ibb.co/rvndCK8/shoe4.jpg",
+      "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+      "discount":"9%",
+      "newPrice":"98.67"
+    },
+    {
+      "model": "Avodaro Helmet",
+      "ratings": 4.5,
+      "price": 90.55,
+      "image": "https://i.ibb.co/f0GvbSC/helmet5.png",
+      "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+      "discount":"8%",
+      "newPrice":"82.45"
+    },
+    {
+        "model": "Nexon Helmet",
+        "ratings": 4.3,
+        "price": 120.53,
+        "image": "https://i.ibb.co/q7gHStW/helmet1.jpg",
+        "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+        "discount":"8%",
+        "newPrice":"108.65"
+      },
+      {
+        "model": "Axor Riding Boot",
+        "ratings": 4.5,
+        "price": 140.28,
+        "image": "https://i.ibb.co/LvYpyTV/shoe3.jpg",
+        "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+        "discount":"9%",
+        "newPrice":"122.67"
+      },
+      {
+        "model": "Yamaha Helmet",
+        "ratings": 4.8,
+        "price": 130.83,
+        "image": "https://i.ibb.co/bPqdNy9/helmet6.jpg",
+        "discount":"9%",
+        "newPrice":"119.55"
+      },
+      {
+        "model": "Dainese Speed",
+        "ratings": 4.5,
+        "price": 135.28,
+        "image": "https://i.ibb.co/q7Xtvmt/shoe1.jpg",
+        "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+        "discount":"9%",
+        "newPrice":"125.85"
+      },
+      {
+        "model": "Bell Storm",
+        "ratings": 4.4,
+        "price": 123.83,
+        "image": "https://i.ibb.co/r64fY23/helmet3.jpg",
+        "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+        "discount":"9%",
+        "newPrice":"113.55"
+      },
+      {
+        "model": "Xtreme Sheild 50M",
+        "ratings": 4.7,
+        "price": 130.58,
+        "image": "https://i.ibb.co/rvndCK8/shoe4.jpg",
+        "description":"The perfect one, made from South African materials. Not only this stuff is super comfortable and cool but it's thermoregulating too. That means it keeps you warm when the temperature is cold but stays breathable when the temperature rise.",
+        "discount":"7%",
+        "newPrice":"123.37"
+      }
+
+
+
+
+  ]

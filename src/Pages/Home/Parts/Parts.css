@@ -1,0 +1,23 @@
+
+.partsImg img {
+    height: 525px;
+    transition: .6s ease-in-out;
+}
+
+.partsImg {
+    overflow: hidden;
+}
+
+.partsImg:hover .pImg {
+    transform: scale(1.1);
+    filter: brightness(70%);
+}
+.seeMoreBtn{
+    border: none;
+    background-color: transparent;
+    color: crimson;
+    font-weight: bold;
+}
+.seeMoreBtn:hover{
+    color: black;
+}

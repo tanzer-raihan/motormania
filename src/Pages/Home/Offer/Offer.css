@@ -1,0 +1,12 @@
+.offerImgContainer{
+    overflow: hidden;
+    
+}
+.offerImg{
+    transition: .6s ease-in-out;
+}
+.offerImgContainer:hover .offerImg{
+    transform: scale(1.1);
+    filter: brightness(80%);
+
+}

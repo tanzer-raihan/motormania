@@ -1,0 +1,36 @@
+.sendMessageContainer {
+    background-color: #f6f7f8;
+    padding: 80px 0px;
+}
+
+.messageInput {
+    width: 100%;
+    padding: 10px 15px;
+    outline: none;
+    border: 1px solid rgb(227, 224, 224);
+    background-color: white;
+    border-radius: 3px;
+    font-weight: 300;
+    transition: .5s ease;
+}
+.messageInput:focus{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 4px 19px 0px;
+
+
+
+}
+.sendMessageBtn {
+    padding: 8px 25px;
+    border: 2px solid rgb(236, 4, 51);
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(236, 44, 83);
+    transition: .7s ease;
+    border-radius: 3px;
+
+}
+.sendMessageBtn:hover {
+    background-color: transparent;
+    color: black;
+}

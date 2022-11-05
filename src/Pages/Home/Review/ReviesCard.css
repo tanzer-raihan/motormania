@@ -1,0 +1,26 @@
+.reviewCard {
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 30px;
+    height:220px;
+    background-color: white;
+
+}
+
+.slick-slide>div {
+    margin: 0px 10px;
+}
+
+.slick-list {
+    margin: 0px -10px;
+}
+
+.reviewerImg img {
+    height: 80px;
+
+    border-radius: 50%;
+}
+.reviewRating{
+    font-size: 10px;
+    color: gold;
+}

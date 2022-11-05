@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #151320;
+    padding: 18px;
+}
+.brandName{
+    color:crimson;
+}
+.navbarBtn{
+    background-color: transparent;
+    padding: 10px 10px;
+    color:white;
+    border:none
+}
+.navLink{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+.navLink:hover{
+    color: crimson;
+}
+.navbarBtn:hover{
+    color: crimson;
+}
+.active{
+    color: crimson;
+    text-decoration: underline;
+}
+.signInBtnSection{
+    
+    border-left: 1px solid gray;
+}

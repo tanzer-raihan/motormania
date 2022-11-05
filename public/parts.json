@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Xenon DR6",
+      "ratings": 4.5,
+      "price": 130.53,
+      "image": "https://i.ibb.co/522q0kR/pro-sm-2.png",
+      "discount":"8%",
+      "newPrice":"118.65"
+    },
+    {
+      "name": "Xtreme Sheild 30M",
+      "ratings": 4,
+      "price": 110.28,
+      "image": "https://i.ibb.co/dg4cJ5c/pro-sm-3.png",
+      "discount":"9%",
+      "newPrice":"98.67"
+    },
+    {
+      "name": "Braking Shaft",
+      "ratings": 4.5,
+      "price": 90.55,
+      "image": "https://i.ibb.co/myj0rLy/pro-sm-1.png",
+      "discount":"8%",
+      "newPrice":"82.45"
+    }
+  ]

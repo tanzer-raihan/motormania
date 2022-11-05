@@ -1,0 +1,33 @@
+.headerTopContainer{
+    padding: 30px;
+    background-color: #151320;
+    color: white;
+    border-bottom: 1px solid gray;
+}
+.brandName img{
+  width: 40%;
+}
+.headerTopInput{
+    border: 1px solid white;
+    background-color: transparent;
+    width: 60%;
+    padding: 8px 20px;
+    border-radius: 2px;
+    color: white;
+    outline: none;
+}
+.exploreBtn{
+    padding: 8px 20px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: gray;
+    border-radius: 2px;
+    
+
+}
+.cart{
+    border: 1px solid white;
+    padding: 12px 11px;
+    border-radius: 50%;
+    color: rgb(164, 162, 162);
+}

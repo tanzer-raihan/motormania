@@ -1,0 +1,33 @@
+.updateContainer{
+    padding: 100px 0px;
+    background-image: url('../../../Assets/subscription.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+    color: white;
+
+}
+.subscribeInput{
+    height: 50px;
+    padding: 8px 40px;
+    width: 400px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    outline: none;
+    background-color:#151320;
+    color: white;
+    
+    
+}
+.subscribeBtn{
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 8px 20px;
+    font-weight: 600;
+    background-color: #151320;
+    color: rgb(171, 169, 169);
+  
+    
+}
