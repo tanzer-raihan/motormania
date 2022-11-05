@@ -8,7 +8,7 @@ const OrderedProductCard = ({ orderedProduct }) => {
     const handleOrderCancel = () => {
         const proceed = window.confirm('Do You Want To Cancel This Order?');
         if (proceed) {
-            fetch(`http://localhost:5000/orders/${user?.email}`, {
+            fetch(`https://cryptic-dusk-45122.herokuapp.com/orders/${user?.email}`, {
                 method: 'DELETE',
                 headers: {
                     'content-type': 'application/json'

@@ -13,7 +13,7 @@ const MakeAdmin = () => {
     const handleMakeAdmin = (event) => {
         event.preventDefault();
 
-        fetch('http://localhost:5000/users/makeadmin', {
+        fetch('https://cryptic-dusk-45122.herokuapp.com/users/makeadmin', {
             method: 'PUT',
             headers: {
                 'content-type': 'application/json',

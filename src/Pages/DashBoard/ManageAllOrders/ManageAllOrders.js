@@ -7,7 +7,7 @@ const ManageAllOrders = () => {
     const{user}=useAuth();
     const [allOrders, setAllOrders] = useState();
     useEffect(() => {
-        fetch('http://localhost:5000/orders')
+        fetch('https://cryptic-dusk-45122.herokuapp.com/orders')
             .then(res => res.json())
             .then(data => setAllOrders(data))
     }, [allOrders])

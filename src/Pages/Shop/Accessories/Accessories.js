@@ -7,7 +7,7 @@ import { CircularProgress } from '@mui/material';
 const Accessories = () => {
     const [accessories, setAccessories] = useState()
     useEffect(() => {
-        fetch('http://localhost:5000/shop/accessories')
+        fetch('https://cryptic-dusk-45122.herokuapp.com/shop/accessories')
             .then(res => res.json())
             .then(data => setAccessories(data))
     }, []);

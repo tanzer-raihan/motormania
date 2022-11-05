@@ -6,7 +6,7 @@ import ManageProductsCard from './ManageProductsCard/ManageProductsCard';
 const ManageProducts = () => {
     const [products, setProducts] = useState();
     useEffect(() => {
-        fetch('http://localhost:5000/shop/products')
+        fetch('https://cryptic-dusk-45122.herokuapp.com/shop/products')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, [products])

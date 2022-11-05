@@ -25,7 +25,7 @@ const ProductModal = ({ open, handleClose, product }) => {
     const client=user?.displayName;
     const cartedProduct = {client, email, model, newPrice, image }
     const handleAddToCart = () => {
-        fetch(`http://localhost:5000/cart/${email}`, {
+        fetch(`https://cryptic-dusk-45122.herokuapp.com/cart/${email}`, {
             method: 'PUT',
             headers: {
                 'content-type': 'application/json'

@@ -8,7 +8,7 @@ const HotDeals = () => {
     const navigate = useNavigate();
     const [products, setProducts] = useState();
     useEffect(() => {
-        fetch('http://localhost:5000/hotdeals')
+        fetch('https://cryptic-dusk-45122.herokuapp.com/hotdeals')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, [])

@@ -12,7 +12,7 @@ const MyCart = () => {
 
     useEffect(() => {
 
-        fetch(`http://localhost:5000/cart/${user?.email}`)
+        fetch(`https://cryptic-dusk-45122.herokuapp.com/cart/${user?.email}`)
             .then(res => res.json())
             .then(data => {
                 setCartProducts(data);

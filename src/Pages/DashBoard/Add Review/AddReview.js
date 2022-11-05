@@ -28,7 +28,7 @@ const AddReview = () => {
         const review = { name, from, opinion, rating };
 
 
-        fetch('http://localhost:5000/reviews', {
+        fetch('https://cryptic-dusk-45122.herokuapp.com/reviews', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

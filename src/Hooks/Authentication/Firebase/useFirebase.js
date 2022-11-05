@@ -89,7 +89,7 @@ const useFirebase = () => {
     }
 
     const saveUserToDb = (displayName, email, method) => {
-        fetch('http://localhost:5000/users', {
+        fetch('https://cryptic-dusk-45122.herokuapp.com/users', {
             method: method,
             headers: {
                 'content-type': 'application/json'
@@ -136,7 +136,7 @@ const useFirebase = () => {
 
     useEffect(() => {
         if (user?.email) {
-            fetch(`http://localhost:5000/users/${user?.email}`)
+            fetch(`https://cryptic-dusk-45122.herokuapp.com/users/${user?.email}`)
                 .then(res => res.json())
                 .then(data => {
                     if (data?.role === "admin") {

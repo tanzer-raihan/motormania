@@ -6,7 +6,7 @@ const AllOrdersCard = ({ orderItem }) => {
 
     const handleStatusChange = () => {
 
-        fetch(`http://localhost:5000/orders/${email}`, {
+        fetch(`https://cryptic-dusk-45122.herokuapp.com/orders/${email}`, {
             method: 'PUT',
             headers: {
                 'content-type': 'application/json'
@@ -20,7 +20,7 @@ const AllOrdersCard = ({ orderItem }) => {
     const handleOrderDelete = () => {
         const proceed = window.confirm('Are You Sure To Delete?');
         if (proceed) {
-            fetch(`http://localhost:5000/orders/${email}`, {
+            fetch(`https://cryptic-dusk-45122.herokuapp.com/orders/${email}`, {
                 method: 'DELETE',
                 headers: {
                     'content-type': 'application/json'

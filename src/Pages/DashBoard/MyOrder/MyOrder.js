@@ -9,7 +9,7 @@ const MyOrder = () => {
     const { user } = useAuth();
     const [isProductLoading, setIsProductLoading] = useState(true);
     useEffect(() => {
-        fetch(`http://localhost:5000/orders/${user?.email}`)
+        fetch(`https://cryptic-dusk-45122.herokuapp.com/orders/${user?.email}`)
             .then(res => res.json())
             .then(data => {
                 setOrderedProducts(data)

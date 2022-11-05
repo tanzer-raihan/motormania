@@ -6,7 +6,7 @@ const ManageProductsCard = ({ product }) => {
     const handleDeleteProduct = () => {
         const proceed = window.confirm('Do You Want To Delete That Product?');
         if (proceed) {
-            fetch('http://localhost:5000/shop/products', {
+            fetch('https://cryptic-dusk-45122.herokuapp.com/shop/products', {
                 method: 'DELETE',
                 headers: {
                     'content-type': 'application/json'

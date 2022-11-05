@@ -9,7 +9,7 @@ const CartProductCard = ({ cartProduct }) => {
     const handleRemove = (productId) => {
         const proceed = window.confirm(`Remove ${model} From The Cart?`);
         if (proceed) {
-            fetch(`http://localhost:5000/cart/${user?.email}`, {
+            fetch(`https://cryptic-dusk-45122.herokuapp.com/cart/${user?.email}`, {
                 method: 'DELETE',
                 headers: {
                     'content-type': 'application/json'

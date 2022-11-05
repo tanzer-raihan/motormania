@@ -63,7 +63,7 @@ const Purchase = () => {
         const status='pending'
         event.preventDefault();
         const info = { model, newPrice, cardName, cardNumber, deliveryType, address, contact, email, displayName, image,status }
-        fetch(`http://localhost:5000/orders/${user?.email}`, {
+        fetch(`https://cryptic-dusk-45122.herokuapp.com/orders/${user?.email}`, {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
@@ -79,7 +79,7 @@ const Purchase = () => {
             })
             .finally(() => {
                 //deleting ordered product from the cart list
-                fetch(`http://localhost:5000/cart/${user?.email}`, {
+                fetch(`https://cryptic-dusk-45122.herokuapp.com/cart/${user?.email}`, {
                     method: 'DELETE',
                     headers: {
                         'content-type': 'application/json'
